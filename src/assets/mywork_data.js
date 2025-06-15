@@ -12,7 +12,7 @@ const mywork_data = [
   },
   {
     w_no: 3,
-    w_name: "Edusity",gi
+    w_name: "Edusity",
     w_img: mywork3_img,
     w_link: "/project/edusity",
     url: "https://edusity-6v5b.vercel.app/",
